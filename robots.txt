@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.lingyunjob.cn/sitemap.xml
